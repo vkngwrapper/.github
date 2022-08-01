@@ -21,6 +21,8 @@ examples.  Several key samples from https://github.com/LunarG/VulkanSamples have
 [the Vulkan tutorial](https://vulkan-tutorial.com), which can be followed step by step at
 https://github.com/vkngwrapper/vulkan-tutorial
 
+For more information about how to use vkngwrapper, check out [the core repository](https://github.com/vkngwrapper/core)!
+
 ## Roadmap
 
 - [X] Vulkan Wrapper core 1.0-1.2
