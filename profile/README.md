@@ -26,11 +26,11 @@ For more information about how to use vkngwrapper, check out [the core repositor
 ## Roadmap
 
 - [X] Vulkan Wrapper core 1.0-1.2
-- [ ] Fast, zero allocation 3d math library with SIMD support
+- [x] Fast, zero allocation 3d math library with ~SIMD support~ ([Why not SIMD?](https://github.com/vkngwrapper/math#why-not-simd))
 - [ ] Pure go port of [VMA](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
 - [ ] Pure go port of Quake 2
 - [ ] Vulkan Wrapper core 1.3
-- [ ] NEON/SVE support in 3d math library
+- [ ] ~NEON/SVE support in 3d math library~ ([Why not SIMD?](https://github.com/vkngwrapper/math#why-not-simd))
 - [ ] Fyne and/or GioUI Integration
 - [ ] Port many [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples), using Fyne or GioUI in place of DearImgui
  
